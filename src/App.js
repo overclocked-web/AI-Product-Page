@@ -19,7 +19,7 @@ function App() {
           <img src={main} className="h-[36rem] " alt="product"/>
         </div>
         <div className=" flex flex-col max-w-screen-md justify-center space-y-8 pr-4">
-          <p className="text-5xl  ">House Best Spread</p>
+          <p className="text-5xl  ">Hazelnut Delight</p>
           <p className="text-3xl italic">Locally Sourced</p>
           <p className="text-lg">Nutella is a chocolate-hazelnut spread that is often used as a spread for bread, as a filling in pastries, and as an ingredient in various desserts. The product is similar to Nutella, a popular brand of chocolate-hazelnut spread that has been around for over 50 years.
           </p>
@@ -31,7 +31,7 @@ function App() {
       </div>
       <div className="grid grid-cols-2 ">
         <div className="flex flex-col items-center pl-4">
-          <p className="text-xl items-start">House Best Spread</p>
+          <p className="text-xl items-start">Hazelnut Delight</p>
           <div className="grid grid-cols-3 pt-2 w-96 ">
               <div className="border flex flex-col items-center py-2 ">
               <p className="text-sm">Sugar</p>
